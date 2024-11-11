@@ -12,7 +12,7 @@ export default function Github() {
       </p>
       <p>
         Here's my{" "}
-        <a href="https://github.com/MorganHanson18/nextjs-hw">
+        <a href="https://github.com/MorganHanson18/nextjs-hw/tree/main/Desktop/nextjs-hw">
           repo for this homework
         </a>
       </p>
